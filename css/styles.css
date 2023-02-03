@@ -302,8 +302,7 @@ main {
 
 /* Section Customers */
 .section-customers {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 120px 0;
 }
 .list-customers {
   display: flex;
